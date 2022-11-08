@@ -9,7 +9,7 @@ First Challenge presented as an on-the-job ticket to refactor existing code to m
 
 ## Link to Deployed Application
 
-Github Pages: https://yankeeknight.github.io/challenge-11_10/
+Github Pages: https://yankeeknight.github.io/challenge_11-10/
 
 ## Usage
 
